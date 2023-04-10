@@ -6,7 +6,7 @@ Plantilla responsive para página "Not Found" con html y css.
 
 ## HTML
 
-```hmtl
+```html
  <div id="notfound">
         <div class="notfound">
             <div class="notfound-404">
