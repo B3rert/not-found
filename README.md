@@ -1,5 +1,5 @@
 # not-found
-Plantilla responsive para pagína "Not Found" con html y css.
+Plantilla responsive para página "Not Found" con html y css.
 
 ## Vista previe
 ![Screenshot](preview.png)
